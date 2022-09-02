@@ -1,1 +1,2 @@
 # Online-Doctor
+Our goal will be to create a vast no. Of community where there will be all the facilities to give a person his/her proper health treatment about his physical condition. It merges with the resources we have in our medical ministry with the information Technology  field , whereas the programming of data processing systems evolved into standardized routines and packages of enterprise resource planning software. This linkage between medical accessories and human resources we have to be fully utilized.
